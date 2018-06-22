@@ -1,3 +1,4 @@
+#Application for image compamparer
 from PIL import Image
 import numpy as np
 
